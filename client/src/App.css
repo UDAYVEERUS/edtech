@@ -1,0 +1,29 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.image {
+  background-image: url("https://demo.w3layouts.com/demos_new/template_demo/29-02-2020/master-liberty-demo_Free/389771183/web/assets/images/t1.jpg");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+.image:hover {
+  cursor: pointer;
+}
+
+
+/* blog */
+
+.img-pic{
+  /* background-image: url("https://demo.w3layouts.com/demos_new/template_demo/29-02-2020/master-liberty-demo_Free/389771183/web/assets/images/blog-1.jpg"); */
+  background-repeat: no-repeat;
+ 
+  /* background-position-x: center; */
+  
+ 
+}
+
+html{
+  
+}
