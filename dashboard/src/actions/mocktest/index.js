@@ -1,0 +1,5 @@
+export * from "./getall"
+export * from "./getByCourse"
+export * from "./delete"
+export * from "./addQuestion"
+export * from "./getbysubcourse"
